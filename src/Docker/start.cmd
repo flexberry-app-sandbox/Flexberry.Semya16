@@ -1,0 +1,1 @@
+docker-compose -p semya16 up -d

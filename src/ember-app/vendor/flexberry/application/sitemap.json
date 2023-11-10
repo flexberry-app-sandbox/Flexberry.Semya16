@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Semya16",
+  "applicationTitle": "Semya16",
+  "items": [
+    {
+      "link": null,
+      "menuName": "semya16",
+      "caption": "Semya16",
+      "title": "Semya16",
+      "children": [
+        {
+          "link": "i-i-s-semya16-контроллер-l",
+          "menuName": null,
+          "caption": "Контроллер",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-semya16-темпа-устан-l",
+          "menuName": null,
+          "caption": "Темпа устан",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

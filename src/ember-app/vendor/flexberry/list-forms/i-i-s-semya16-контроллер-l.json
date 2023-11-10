@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-semya16-контроллер-e",
+  "editForm": "i-i-s-semya16-контроллер-e",
+  "external": false,
+  "caption": "Контроллер",
+  "name": "IISSemya16КонтроллерL",
+  "className": "КонтроллерL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-semya16-контроллер",
+      "modelProjection": "КонтроллерL"
+    }
+  ]
+}
