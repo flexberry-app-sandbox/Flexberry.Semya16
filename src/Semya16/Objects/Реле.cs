@@ -29,8 +29,8 @@ namespace IIS.Semya16
     [AutoAltered()]
     [AccessType(ICSSoft.STORMNET.AccessType.none)]
     [View("РелеE", new string[] {
-            "НомерР",
-            "СостояниеР"})]
+            "НомерР as \'Номер Р\'",
+            "СостояниеР as \'Состояние Р\'"})]
     [View("РелеL", new string[] {
             "НомерР",
             "СостояниеР"})]

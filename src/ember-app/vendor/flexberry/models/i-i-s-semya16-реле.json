@@ -42,13 +42,13 @@
       "attrs": [
         {
           "name": "номерР",
-          "caption": "",
+          "caption": "Номер Р",
           "hidden": false,
           "index": 0
         },
         {
           "name": "состояниеР",
-          "caption": "",
+          "caption": "Состояние Р",
           "hidden": false,
           "index": 1
         }

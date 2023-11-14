@@ -61,9 +61,9 @@ export let defineProjections = function (modelClass) {
       погрешность: attr('Погрешность', { index: 1 }),
       производ: attr('Производ', { index: 2 })
     }),
-    реле: hasMany('i-i-s-semya16-реле', '', {
-      номерР: attr('', { index: 0 }),
-      состояниеР: attr('', { index: 1 })
+    реле: hasMany('i-i-s-semya16-реле', 'Реле', {
+      номерР: attr('Номер Р', { index: 0 }),
+      состояниеР: attr('Состояние Р', { index: 1 })
     })
   });
 

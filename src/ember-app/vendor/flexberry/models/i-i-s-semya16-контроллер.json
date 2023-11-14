@@ -97,7 +97,7 @@
         },
         {
           "projectionName": "РелеE",
-          "caption": "",
+          "caption": "Реле",
           "name": "реле",
           "relatedTo": "i-i-s-semya16-реле",
           "inverse": null

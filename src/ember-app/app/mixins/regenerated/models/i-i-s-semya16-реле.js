@@ -35,8 +35,8 @@ export let ValidationRules = {
 
 export let defineProjections = function (modelClass) {
   modelClass.defineProjection('РелеE', 'i-i-s-semya16-реле', {
-    номерР: attr('', { index: 0 }),
-    состояниеР: attr('', { index: 1 })
+    номерР: attr('Номер Р', { index: 0 }),
+    состояниеР: attr('Состояние Р', { index: 1 })
   });
 
   modelClass.defineProjection('РелеL', 'i-i-s-semya16-реле', {

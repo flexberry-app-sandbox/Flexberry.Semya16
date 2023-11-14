@@ -35,7 +35,7 @@ namespace IIS.Semya16
             "ТемпаУстан.Температура"})]
     [AssociatedDetailViewAttribute("КонтроллерE", "Датчик", "ДатчикE", true, "", "Датчик", true, new string[] {
             ""})]
-    [AssociatedDetailViewAttribute("КонтроллерE", "Реле", "РелеE", true, "", "", true, new string[] {
+    [AssociatedDetailViewAttribute("КонтроллерE", "Реле", "РелеE", true, "", "Реле", true, new string[] {
             ""})]
     [View("КонтроллерL", new string[] {
             "Номер as \'Номер\'",
