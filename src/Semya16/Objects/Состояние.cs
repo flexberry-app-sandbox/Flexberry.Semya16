@@ -12,6 +12,7 @@ namespace IIS.Semya16
 {
     using System;
     using System.Xml;
+    using ICSSoft.STORMNET;
     
     
     // *** Start programmer edit section *** (Using statements)
@@ -31,11 +32,13 @@ namespace IIS.Semya16
         // *** Start programmer edit section *** (Состояние.Открыт CustomAttributes)
 
         // *** End programmer edit section *** (Состояние.Открыт CustomAttributes)
+        [Caption("Открыт")]
         Открыт,
         
         // *** Start programmer edit section *** (Состояние.Закрыт CustomAttributes)
 
         // *** End programmer edit section *** (Состояние.Закрыт CustomAttributes)
+        [Caption("Закрыт")]
         Закрыт,
     }
 }

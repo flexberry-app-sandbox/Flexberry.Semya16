@@ -22,7 +22,7 @@ export default Controller.extend({
             link: 'i-i-s-semya16-контроллер-l',
             caption: i18n.t('forms.application.sitemap.semya16.i-i-s-semya16-контроллер-l.caption'),
             title: i18n.t('forms.application.sitemap.semya16.i-i-s-semya16-контроллер-l.title'),
-            icon: 'table',
+            icon: 'chart line',
             children: null
           }, {
             link: 'i-i-s-semya16-темпа-устан-l',
